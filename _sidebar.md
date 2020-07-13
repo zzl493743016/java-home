@@ -9,9 +9,9 @@
   * [Redis](./docs/数据库/redis.md)
 
 * 中间件
-  * [RabbitMq]
-  * [ElasticSearch]
-  * [Nginx]
+  * [RabbitMq](./docs/中间件/rabbitmq.md)
+  * [ElasticSearch](./docs/中间件/elasticsearch.md)
+  * [Nginx](./docs/中间件/nginx.md)
   * [Kafka](./docs/中间件/kafka.md)
 
 * 计算机基础
