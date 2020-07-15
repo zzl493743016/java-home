@@ -32,17 +32,19 @@
 
         * [15.泛型（待办）](./docs/Java/1.基础/15.泛型（待办）.md)
 
-        * [16.时间类](./docs/Java/1.基础/16.时间类.md)
-
         * [16.时间类（待办）](./docs/Java/1.基础/16.时间类（待办）.md)
 
-    * 2.集合
+        * [17.compare](./docs/Java/1.基础/17.compare.md)
 
-        * [集合](./docs/Java/2.集合/集合.md)
+    * 2.集合
 
         * [1.集合总结](./docs/Java/2.集合/1.集合总结.md)
 
         * [2.List](./docs/Java/2.集合/2.List.md)
+
+        * [3.Map](./docs/Java/2.集合/3.Map.md)
+
+        * [4.Set](./docs/Java/2.集合/4.Set.md)
 
     * 3.多线程
 
