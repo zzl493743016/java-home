@@ -50,6 +50,10 @@
 
         * [多线程](./docs/Java/3.多线程/多线程.md)
 
+        * [1.基础概念](./docs/Java/3.多线程/1.基础概念.md)
+
+        * [2.synchronized](./docs/Java/3.多线程/2.synchronized.md)
+
     * 4.jvm
 
         * [jvm](./docs/Java/4.jvm/jvm.md)
