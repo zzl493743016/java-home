@@ -6,9 +6,10 @@ import java.util.Arrays;
 public class s {
 
     public static void main(String[] args) throws Exception {
+    	String rootPath = "E:\\my\\java-note\\";
         PrintWriter writer = new PrintWriter(
-                "C:\\Users\\Arthas\\Desktop\\my\\java-note\\_sidebar.md","utf-8");
-        File root = new File("C:\\Users\\Arthas\\Desktop\\my\\java-note\\docs");
+                rootPath + "_sidebar.md","utf-8");
+        File root = new File(rootPath + "docs");
         String prefix = "";
         String path = "./" + root.getName();
 

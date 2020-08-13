@@ -4,41 +4,35 @@
 
         * [1.基础概念](./docs/Java/1.基础/1.基础概念.md)
 
-        * [2.JVM、JDK和JRE](./docs/Java/1.基础/2.JVM、JDK和JRE.md)
+        * [2.基本数据类型](./docs/Java/1.基础/2.基本数据类型.md)
 
-        * [3.构造器](./docs/Java/1.基础/3.构造器.md)
+        * [3.字符串](./docs/Java/1.基础/3.字符串.md)
 
-        * [4.基本数据类型与包装类](./docs/Java/1.基础/4.基本数据类型与包装类.md)
+        * [4.关键字](./docs/Java/1.基础/4.关键字.md)
 
-        * [5.成员变量与局部变量的区别](./docs/Java/1.基础/5.成员变量与局部变量的区别.md)
+        * [5.hashCode、equals和==](./docs/Java/1.基础/5.hashCode、equals和==.md)
 
-        * [6.静态方法和实例方法](./docs/Java/1.基础/6.静态方法和实例方法.md)
+        * [6.泛型（待办）](./docs/Java/1.基础/6.泛型（待办）.md)
 
-        * [7.接口和抽象类](./docs/Java/1.基础/7.接口和抽象类.md)
+        * [7.异常处理](./docs/Java/1.基础/7.异常处理.md)
 
-        * [8.关键字](./docs/Java/1.基础/8.关键字.md)
+        * [8.IO流](./docs/Java/1.基础/8.IO流.md)
 
-        * [9.String、StringBuffer和StringBuilder](./docs/Java/1.基础/9.String、StringBuffer和StringBuilder.md)
+        * [9.内部类](./docs/Java/1.基础/9.内部类.md)
 
-        * [10.hashCode、equals和==](./docs/Java/1.基础/10.hashCode、equals和==.md)
+        * [10.动态代理](./docs/Java/1.基础/10.动态代理.md)
 
         * [11.异常处理](./docs/Java/1.基础/11.异常处理.md)
 
-        * [12.IO流](./docs/Java/1.基础/12.IO流.md)
+        * [12.时间类](./docs/Java/1.基础/12.时间类.md)
 
-        * [13.内部类](./docs/Java/1.基础/13.内部类.md)
+        * [13.compare](./docs/Java/1.基础/13.compare.md)
 
-        * [14.动态代理](./docs/Java/1.基础/14.动态代理.md)
-
-        * [15.泛型（待办）](./docs/Java/1.基础/15.泛型（待办）.md)
-
-        * [16.时间类（待办）](./docs/Java/1.基础/16.时间类（待办）.md)
-
-        * [17.compare](./docs/Java/1.基础/17.compare.md)
+        * [14.序列化](./docs/Java/1.基础/14.序列化.md)
 
     * 2.集合
 
-        * [1.集合总结](./docs/Java/2.集合/1.集合总结.md)
+        * [1.基础](./docs/Java/2.集合/1.基础.md)
 
         * [2.List](./docs/Java/2.集合/2.List.md)
 
@@ -53,6 +47,14 @@
         * [1.基础概念](./docs/Java/3.多线程/1.基础概念.md)
 
         * [2.synchronized](./docs/Java/3.多线程/2.synchronized.md)
+
+        * [3.volatile](./docs/Java/3.多线程/3.volatile.md)
+
+        * [4.threadlocal](./docs/Java/3.多线程/4.threadlocal.md)
+
+        * [5.原子类](./docs/Java/3.多线程/5.原子类.md)
+
+        * [6.线程池](./docs/Java/3.多线程/6.线程池.md)
 
     * 4.jvm
 
