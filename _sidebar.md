@@ -42,8 +42,6 @@
 
     * 3.多线程
 
-        * [多线程](./docs/Java/3.多线程/多线程.md)
-
         * [1.基础概念](./docs/Java/3.多线程/1.基础概念.md)
 
         * [2.synchronized](./docs/Java/3.多线程/2.synchronized.md)
@@ -56,9 +54,19 @@
 
         * [6.线程池](./docs/Java/3.多线程/6.线程池.md)
 
+        * [7.AQS](./docs/Java/3.多线程/7.AQS.md)
+
+        * [8.单例](./docs/Java/3.多线程/8.单例.md)
+
     * 4.jvm
 
-        * [jvm](./docs/Java/4.jvm/jvm.md)
+        * [1.内存区域](./docs/Java/4.jvm/1.内存区域.md)
+
+        * [2.对象创建](./docs/Java/4.jvm/2.对象创建.md)
+
+        * [3.对象回收](./docs/Java/4.jvm/3.对象回收.md)
+
+        * [4.故障排除](./docs/Java/4.jvm/4.故障排除.md)
 
 * 中间件
 
@@ -100,5 +108,13 @@
 
     * [算法](./docs/计算机基础/算法.md)
 
-    * [计算机网络](./docs/计算机基础/计算机网络.md)
+    * 计算机网络
+
+        * [1.网络基础](./docs/计算机基础/计算机网络/1.网络基础.md)
+
+        * [2.tcp](./docs/计算机基础/计算机网络/2.tcp.md)
+
+        * [3.udp](./docs/计算机基础/计算机网络/3.udp.md)
+
+        * [4.http](./docs/计算机基础/计算机网络/4.http.md)
 
