@@ -74,9 +74,29 @@
 
     * [kafka](./docs/中间件/kafka.md)
 
+    * [mysql](./docs/中间件/mysql.md)
+
     * [nginx](./docs/中间件/nginx.md)
 
     * [rabbitmq](./docs/中间件/rabbitmq.md)
+
+    * redis
+
+        * [redis - 副本 - 副本 - 副本](./docs/中间件/redis/redis - 副本 - 副本 - 副本.md)
+
+        * [1.线程模型](./docs/中间件/redis/1.线程模型.md)
+
+        * [2.数据结构](./docs/中间件/redis/2.数据结构.md)
+
+        * [3.过期和内存淘汰](./docs/中间件/redis/3.过期和内存淘汰.md)
+
+        * [4.持久化](./docs/中间件/redis/4.持久化.md)
+
+        * [5.主从复制](./docs/中间件/redis/5.主从复制.md)
+
+        * [6.哨兵](./docs/中间件/redis/6.哨兵.md)
+
+        * [7.集群](./docs/中间件/redis/7.集群.md)
 
 * 其他
 
@@ -93,12 +113,6 @@
 * 微服务
 
     * [微服务](./docs/微服务/微服务.md)
-
-* 数据库
-
-    * [mysql](./docs/数据库/mysql.md)
-
-    * [redis](./docs/数据库/redis.md)
 
 * 计算机基础
 
