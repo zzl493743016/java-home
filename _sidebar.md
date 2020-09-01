@@ -22,13 +22,11 @@
 
         * [10.动态代理](./docs/Java/1.基础/10.动态代理.md)
 
-        * [11.异常处理](./docs/Java/1.基础/11.异常处理.md)
+        * [11.时间类](./docs/Java/1.基础/11.时间类.md)
 
-        * [12.时间类](./docs/Java/1.基础/12.时间类.md)
+        * [12.compare](./docs/Java/1.基础/12.compare.md)
 
-        * [13.compare](./docs/Java/1.基础/13.compare.md)
-
-        * [14.序列化](./docs/Java/1.基础/14.序列化.md)
+        * [13.序列化](./docs/Java/1.基础/13.序列化.md)
 
     * 2.集合
 
