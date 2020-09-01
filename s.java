@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class s {
 
     public static void main(String[] args) throws Exception {
-    	String rootPath = "E:\\my\\java-note\\";
+        String rootPath = "E:\\my\\java-note\\";
         PrintWriter writer = new PrintWriter(
                 rootPath + "_sidebar.md","utf-8");
         File root = new File(rootPath + "docs");
@@ -32,6 +32,9 @@ public class s {
             System.out.println();
         }
         if (root.isDirectory()) {
+            if (root.getName().contains(".assets")) {
+                return;
+            }
             String s = prefix + "* " + root.getName();
             writer.println(s);
             writer.println();

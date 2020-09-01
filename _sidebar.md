@@ -82,8 +82,6 @@
 
     * redis
 
-        * [redis - 副本 - 副本 - 副本](./docs/中间件/redis/redis - 副本 - 副本 - 副本.md)
-
         * [1.线程模型](./docs/中间件/redis/1.线程模型.md)
 
         * [2.数据结构](./docs/中间件/redis/2.数据结构.md)
