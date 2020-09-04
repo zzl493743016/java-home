@@ -80,6 +80,22 @@
 
         * [2.索引](./docs/中间件/mysql/2.索引.md)
 
+        * [3.三范式](./docs/中间件/mysql/3.三范式.md)
+
+        * [4.事务](./docs/中间件/mysql/4.事务.md)
+
+        * [5.锁](./docs/中间件/mysql/5.锁.md)
+
+        * [6.日志](./docs/中间件/mysql/6.日志.md)
+
+        * [7.join](./docs/中间件/mysql/7.join.md)
+
+        * [8.慢查询](./docs/中间件/mysql/8.慢查询.md)
+
+        * [9.规范](./docs/中间件/mysql/9.规范.md)
+
+        * [10.优化建议](./docs/中间件/mysql/10.优化建议.md)
+
     * [nginx](./docs/中间件/nginx.md)
 
     * [rabbitmq](./docs/中间件/rabbitmq.md)
