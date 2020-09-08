@@ -96,7 +96,9 @@
 
     * [nginx](./docs/中间件/nginx.md)
 
-    * [rabbitmq](./docs/中间件/rabbitmq.md)
+    * rabbitmq
+
+        * [rabbitmq](./docs/中间件/rabbitmq/rabbitmq.md)
 
     * redis
 
