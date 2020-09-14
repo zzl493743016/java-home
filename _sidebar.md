@@ -68,7 +68,11 @@
 
 * 中间件
 
-    * [elasticsearch](./docs/中间件/elasticsearch.md)
+    * elasticsearch
+
+        * [1.基础](./docs/中间件/elasticsearch/1.基础.md)
+
+        * [2.操作](./docs/中间件/elasticsearch/2.操作.md)
 
     * [kafka](./docs/中间件/kafka.md)
 
