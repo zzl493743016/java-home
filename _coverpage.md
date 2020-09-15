@@ -4,7 +4,7 @@
 <h1 align="center">java-note</h1>
 
 [GitHub](https://github.com/zzl493743016/java-home)
-[开始阅读](#java-note)
+[开始阅读](readme.md)
 
 
 
