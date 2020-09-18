@@ -37,6 +37,7 @@
         - [2.对象创建](./docs/Java/4.jvm/2.对象创建.md)
         - [3.对象回收](./docs/Java/4.jvm/3.对象回收.md)
         - [4.故障排除](./docs/Java/4.jvm/4.故障排除.md)
+        - [5.调优](./docs/Java/4.jvm/5.调优.md)
 - 中间件
 
     - elasticsearch
@@ -71,6 +72,9 @@
         - [7.集群](./docs/中间件/redis/7.集群.md)
 - 其他
 
+    - tomcat
+
+        - [1.基础](./docs/其他/tomcat/1.基础.md)
     - [认证授权](./docs/其他/认证授权.md)
 - 常用框架
 
